@@ -1,5 +1,5 @@
 import pygame
-import numpy
+import numpy as np
 
 class cell():
     def __init__(self, colour:tuple=(255, 255, 255), size:int=1, rules:list=[]):
